@@ -3,8 +3,10 @@
 vscode-powershell.build.ps1
 typings/**
 **/*.ts
+**/*.map
 .gitignore
 tsconfig.json
+tslint.json
 build/**
 bin/EditorServices.log
 bin/DebugAdapter.log
